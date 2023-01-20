@@ -149,10 +149,11 @@ body {
 	display: flex;
 }
 .what__image {
-	max-width: 430px;
+	flex: 0 0 430px;
 }
 .what__body {
 	margin: 0px 0px 0px 48px;
+	flex: 1 1 auto;
 }
 .what__title {
 	margin: 0px 0px 36px 0px;
