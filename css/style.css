@@ -98,6 +98,12 @@ body {
 	max-width: 1184px;
 	margin: 0 auto;
 }
+.title {
+	font-family: Arial;
+	font-size: 30px;
+	line-height: 1.2;
+	color: #445161;
+}
 
 /* ------------------ */
 .hi {
@@ -131,6 +137,37 @@ body {
 	margin: 0;
 }
 .hi__image {
+}
+
+/* -------------WHAT----------------- */
+
+.what {
+	padding: 51px 0px;
+}
+
+.what__row {
+	display: flex;
+}
+.what__image {
+	max-width: 430px;
+}
+.what__body {
+	margin: 0px 0px 0px 48px;
+}
+.what__title {
+	margin: 0px 0px 36px 0px;
+}
+
+.what__text {
+	font-size: 16px;
+	line-height: 1.5;
+	color: #333;
+}
+.what__text p {
+	margin: 0px 0px 35px 0px;
+}
+.what__text p:last-child {
+	margin: 0;
 }
 
 /* -----------FOOTER--------- */
