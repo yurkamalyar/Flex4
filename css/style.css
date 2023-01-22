@@ -225,22 +225,43 @@ body {
 }
 
 .vertical__title {
+	text-align: center;
 }
 .vertical__body {
 }
 .vertical__row {
 }
 .vertical__column {
+	background-color: #445162;
 }
 .vertical__item {
+	border: solid 2px #445162;
 }
 .vertical__subtitle {
+	font-size: 24px;
+	line-height: 1.25;
+	text-align: center;
+	color: #fff;
+	text-transform: uppercase;
 }
 .vertical__label {
+	font-size: 40px;
+	line-height: 0.75;
+	text-align: center;
+	color: #445162;
+	background-color: #fff;
 }
 .vertical__text {
+	font-size: 14px;
+	line-height: 1.71;
+	color: #fff;
 }
 .vertical__btn {
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 1;
+	text-align: center;
+	color: #445161;
 }
 
 /* -----------FOOTER--------- */
