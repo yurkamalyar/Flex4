@@ -205,6 +205,7 @@ body {
 }
 .item__body {
 	padding: 0px 0px 0px 15px;
+	flex: 1 1 auto;
 }
 .item__title {
 	font-size: 24px;
@@ -216,6 +217,30 @@ body {
 	font-size: 16px;
 	line-height: 1.5;
 	color: #333;
+}
+
+/* ----------VERTICAL--------------------------- */
+
+.vertical {
+}
+
+.vertical__title {
+}
+.vertical__body {
+}
+.vertical__row {
+}
+.vertical__column {
+}
+.vertical__item {
+}
+.vertical__subtitle {
+}
+.vertical__label {
+}
+.vertical__text {
+}
+.vertical__btn {
 }
 
 /* -----------FOOTER--------- */
